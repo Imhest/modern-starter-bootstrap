@@ -1,0 +1,1 @@
+Abrir consola en directorio y hacer "npm run dev"

@@ -1,0 +1,8 @@
+@import '~bootstrap/scss/bootstrap';
+// El ~ (tilde) le dice a css que importe como modulo de node
+
+.bacon > img {
+  width: 75px;
+  display: block;
+  margin: auto;
+}
